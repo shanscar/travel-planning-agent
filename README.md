@@ -84,10 +84,3 @@ The system minimizes unnecessary user involvement, only requesting input for maj
 ## Customization
 
 You can modify the agents' system messages or add additional specialized agents to enhance the planning capabilities for specific travel needs.
-
-## License
-
-[Your License Information]
-
----
-Answer from Perplexity: pplx.ai/share
